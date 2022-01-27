@@ -1,5 +1,5 @@
 {
-    "name": "Aluracord - Matrix (peas)",
+    "name": "Aluracord - God Of War (stbranca)",
     "stickers": [
         "http://2.bp.blogspot.com/-d21tffsTIQo/U_H9QjC69gI/AAAAAAAAKqM/wnvOyUr6a_I/s1600/Pikachu%2B2.gif",
         "https://media1.giphy.com/media/BdghqxNFV4efm/200.gif",
@@ -23,7 +23,7 @@
                 "900": "#05400A"
             },
             "neutrals": {
-                "000": "#FFFFFF",
+                "000": "#ffff",
                 "050": "#F5F7FA",
                 "100": "#E4E7EB",
                 "200": "#CBD2D9",
@@ -31,7 +31,7 @@
                 "400": "#52667A",
                 "500": "#313D49",
                 "600": "#29333D",
-                "700": "#212931",
+                "700": "#370617",
                 "800": "#181F25",
                 "900": "#101418",
                 "999": "#080A0C"
